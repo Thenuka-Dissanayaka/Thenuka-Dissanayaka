@@ -40,7 +40,7 @@
 ---
 
 ### 🔗 Connect with me
-- **Location:** Vavuniya, Sri Lanka 🇱🇰
+- **Location:** Anuradhapura, Sri Lanka 🇱🇰
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Thenuka-Dissanayaka&color=brightgreen&style=flat-square" alt="Profile Visitors" />
