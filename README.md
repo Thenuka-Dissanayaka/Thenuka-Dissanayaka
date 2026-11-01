@@ -23,11 +23,11 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thenuka-Dissanayaka&show_icons=true&theme=radical&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thenuka-Dissanayaka&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thenuka-Dissanayaka&layout=compact&theme=radical&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thenuka-Dissanayaka&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
