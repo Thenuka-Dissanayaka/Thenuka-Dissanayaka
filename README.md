@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Thenuka Dissanayaka (D.M.T.S. Dissanayaka)
 
 ### 🚀 Data Analyst & Software Engineering Undergraduate
-*Studying BICT Honours at the Faculty of Technological Studies, University of Vavuniya*[span_0](start_span)[span_0](end_span)
+*Studying BICT Honours at the Faculty of Technological Studies, University of Vavuniya*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thenuka-dissanayaka-997bb1447)
 [![Email](https://img.shields.io/badge/Email-D16834?logo=gmail&logoColor=white)](mailto:thenukasandeepa.dev@gmail.com)
